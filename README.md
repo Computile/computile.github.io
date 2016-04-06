@@ -1,12 +1,17 @@
 **About**
+
 Computile is an abstract strategy, mathÂ­based puzzler game that involves basic arithmetic operations and strategic planning. The game will be played on a board with a grid of tiles and selection of operations. The goal is to clear out all the tiles on the board by executing the selected operation on the tiles.
 
 How to play: Use your arrow keys to move the tiles. Clear out all the tiles to win.
 
+Play now: http://computile.github.io
+
 **Screenshot**
+
 ![Alt text](./Assets/Textures/screenshot.png?raw=true "Computile Screenshot")
 
 **License**
+
 - Original 2048 implementation: Copyright (c) 2014, Justin Hamilton All rights reserved. (https://github.com/jamiltron/2048-unity)
 - Modified to create Computile: Copyright (c) 2016, Computile All rights reserved. (https://github.com/Computile/computile.github.io)
 
